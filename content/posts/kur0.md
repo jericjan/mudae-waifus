@@ -64,6 +64,7 @@ nanogallery = "yes"
 ## Vocaloid
 {{< galleries >}}
 {{< gallery src="https://mudae.net/uploads/7726091/O7JbSjd~xBPSMFo.png" title="GUMI" >}}
+{{< gallery src="https://imgur.com/B6UKYSf.gif" title="Kaai Yuki" >}}
 
 {{< gallery src="https://mudae.net/uploads/3583175/xt-KOpu~2wUqZvP.png" title="Ca | Miku skinwalker" >}}
 
@@ -174,5 +175,6 @@ nanogallery = "yes"
 {{< gallery src="https://mudae.net/uploads/6242957/t7IMY4n~gD4yUhp.png" title="Vet-sama" >}}
 {{< gallery src="https://mudae.net/uploads/6852516/NsOPEyg~ytbg5qM.png" title="Sader" >}}
 {{< /galleries >}}
+
 
 
