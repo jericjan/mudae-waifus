@@ -170,8 +170,9 @@ nanogallery = "yes"
 
 ## Memes
 {{< galleries >}}
+{{< gallery src="https://imgur.com/VmWyHb5.gif" title="Raku-chan" >}}
 {{< gallery src="https://mudae.net/uploads/6242957/t7IMY4n~gD4yUhp.png" title="Vet-sama" >}}
-
 {{< gallery src="https://mudae.net/uploads/6852516/NsOPEyg~ytbg5qM.png" title="Sader" >}}
 {{< /galleries >}}
+
 
