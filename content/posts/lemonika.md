@@ -42,6 +42,7 @@ draft = false
 {{< gallery src="https://mudae.net/uploads/4800587/ha0ge4K~T0UBwld.png" title="Durandal" >}}
 {{< gallery src="https://mudae.net/uploads/6218868/vlxa3Uu~GV7bN8Z.png" title="No.21" >}}
 {{< gallery src="https://mudae.net/uploads/5557432/lETuRs-~wcEzDF5.png" title="Sangonomiya Kokomi | tradeable" >}}
+{{< gallery src="https://mudae.net/uploads/7665000/W9d4XMi~jmoops0.png" title="Faruzan" >}}
 {{< /galleries >}}
 
 ## Vtubers
@@ -63,3 +64,4 @@ draft = false
 {{< gallery src="https://mudae.net/uploads/4462903/5qhD-99~RA5MGBa.png" title="TOR-chan" >}}
 {{< gallery src="https://imgur.com/ijyFqZL.png" title="Asahi's Banana" >}}
 {{< /galleries >}}
+
