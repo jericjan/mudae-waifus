@@ -2,6 +2,7 @@
 title = "Lemonika's Waifus"
 date = 2024-07-26T11:01:53+08:00
 draft = false
+nanogallery = "yes"
 +++
 
 
