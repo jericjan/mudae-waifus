@@ -18,6 +18,7 @@ draft = false
 
 ## Touhou 
 {{< galleries >}}
+{{< gallery src="https://mudae.net/uploads/5290594/BCrQKU5~bdJ0WE8.png" title="Hecatia Lapislazuli" >}}
 {{< gallery src="https://mudae.net/uploads/9668812/3mP0_PT~rxb4pDg.png" title="Clownpiece" >}}
 {{< gallery src="https://imgur.com/UzddX47.gif" title="Yuuma Toutetsu" >}}
 {{< gallery src="https://mudae.net/uploads/1789478/XK-T4u6~t7dZ1Lx.png" title="Chimata Tenkyuu" >}}

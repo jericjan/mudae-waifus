@@ -71,6 +71,7 @@ draft = false
 
 ## Vtubers
 {{< galleries >}}
+{{< gallery src="https://mudae.net/uploads/8787022/i7IW8Rc~ieO16q0.png" title="Amano Pikamee" >}}
 {{< gallery src="https://mudae.net/uploads/8410367/aaoQWlM~kryTrub.png" title="Millie Parfait" >}}
 
 {{< gallery src="https://mudae.net/uploads/8381461/Ee0fgo_~2gYfmyg.png" title="Senzawa" >}}
