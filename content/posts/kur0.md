@@ -130,6 +130,7 @@ nanogallery = "yes"
 
 {{< gallery src="https://mudae.net/uploads/4726112/FICIU4H~piKVvRl.png" title="Freyja Wion" >}}
 {{< gallery src="https://imgur.com/ZM9BwgI.gif" title="Kotoko Iwanaga" >}}
+{{< gallery src="https://imgur.com/PmOYk2d.gif" title="Sayaka Miki" >}}
 {{< /galleries >}}
 
 ## Non-anime
