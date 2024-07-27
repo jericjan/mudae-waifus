@@ -41,6 +41,7 @@ nanogallery = "yes"
 {{< gallery src="https://mudae.net/uploads/2464552/MBmlc7a~MX7e8Aw.png" title="Fu Hua" >}}
 {{< gallery src="https://mudae.net/uploads/4810648/WTXNyfZ~345xcn9ql27.png" title="Nicole Demara" >}}
 {{< gallery src="https://mudae.net/uploads/4800587/ha0ge4K~T0UBwld.png" title="Durandal" >}}
+{{< gallery src="https://imgur.com/BGnTtXJ.gif" title="Alpha (PGR)" >}}
 {{< gallery src="https://mudae.net/uploads/6218868/vlxa3Uu~GV7bN8Z.png" title="No.21" >}}
 {{< gallery src="https://mudae.net/uploads/5557432/lETuRs-~wcEzDF5.png" title="Sangonomiya Kokomi | tradeable" >}}
 {{< gallery src="https://mudae.net/uploads/7665000/W9d4XMi~jmoops0.png" title="Faruzan" >}}

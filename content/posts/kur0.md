@@ -88,6 +88,7 @@ nanogallery = "yes"
 ## Anime
 {{< galleries >}}
 {{< gallery src="https://imgur.com/18R98AH.gif" title="Asuka Langley Shikinami" >}}
+{{< gallery src="https://imgur.com/qHTJb79.gif" title="Cocona Cocomine" >}}
 
 {{< gallery src="https://mudae.net/uploads/5374406/JEFCrLc~puuBIiw.png" title="Akane Shinjou" >}}
 

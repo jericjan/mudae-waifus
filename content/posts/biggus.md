@@ -47,6 +47,7 @@ nanogallery = "yes"
 ## Anime
 {{< galleries >}}
 {{< gallery src="https://mudae.net/uploads/8641259/5uj3lPS~i7mFZ4j.png" title="Shouko Makinohara" >}}
+{{< gallery src="https://imgur.com/ODIXk7A.gif" title="Mahiro Oyama" >}}
 {{< gallery src="https://mudae.net/uploads/4957727/1Q030JI~eBPY5Jv.png" title="Sakura Suzuhara" >}}
 {{< gallery src="https://mudae.net/uploads/5915760/eIxoyUG~sWWdLOm.png" title="Utsutsu Miya" >}}
 {{< gallery src="https://mudae.net/uploads/5557708/m1qyc4U~l7lxcjjojv7.png" title="Aki Adagaki" >}}
