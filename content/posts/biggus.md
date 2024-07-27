@@ -68,4 +68,6 @@ nanogallery = "yes"
 {{< gallery src="https://mudae.net/uploads/3950464/5If58Y9~FzNjnT7.png" title="Lala Satalin Deviluke | tradeable" >}}
 {{< gallery src="https://mudae.net/uploads/2705427/2D7NTYT~GwCXkZn.png" title="Nico Robin | tradeable" >}}
 {{< gallery src="https://mudae.net/uploads/8187313/hJD4lZz~myMvOmX.png" title="Maple (NP)" >}}
+{{< gallery src="https://imgur.com/XYFLtdI.gif" title="Yoshino Koiwai" >}}
 {{< /galleries >}}
+

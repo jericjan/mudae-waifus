@@ -126,6 +126,7 @@ nanogallery = "yes"
 {{< gallery src="https://imgur.com/wjKwMjj.gif" title="Yuuko Yoshida" >}}
 
 {{< gallery src="https://mudae.net/uploads/4726112/FICIU4H~piKVvRl.png" title="Freyja Wion" >}}
+{{< gallery src="https://imgur.com/ZM9BwgI.gif" title="Kotoko Iwanaga" >}}
 {{< /galleries >}}
 
 ## Non-anime
@@ -175,6 +176,7 @@ nanogallery = "yes"
 {{< gallery src="https://mudae.net/uploads/6242957/t7IMY4n~gD4yUhp.png" title="Vet-sama" >}}
 {{< gallery src="https://mudae.net/uploads/6852516/NsOPEyg~ytbg5qM.png" title="Sader" >}}
 {{< /galleries >}}
+
 
 
 
