@@ -110,5 +110,6 @@ questions = [
 result = prompt(questions=questions)[0]
 
 if result == "yes":
+    os.system("git add public/ content/")
     os.system("git commit -m '.'")
     os.system("git push origin main")

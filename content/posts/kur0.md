@@ -16,7 +16,9 @@ nanogallery = "yes"
 
 {{< gallery src="https://imgur.com/JgJPesd.gif" title="Osage-chan" >}}
 
-{{< gallery src="https://mudae.net/uploads/6428828/pyY436M~5e1GPkQ.png" title="Hatsune Miku" >}}
+{{< gallery src="https://cdn.imgchest.com/files/k739c6gwv87.gif" title="Hatsune Miku" >}}
+{{< gallery src="https://cdn.imgchest.com/files/w7pjcwdrlj7.gif" title="Kasane Teto" >}}
+{{< gallery src="https://imgur.com/7H9PANR.gif" title="Akita Neru" >}}
 
 {{< gallery src="https://mudae.net/uploads/2973343/OAvu1p3~4uttoVi.png" title="Black★Rock Shooter" >}}
 

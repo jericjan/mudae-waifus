@@ -9,7 +9,6 @@ nanogallery = "yes"
 ## Top
 {{< galleries >}}
 {{< gallery src="https://mudae.net/uploads/2216020/YyYOrJ_~uqt3FnI.png" title="Osaka" >}}
-{{< gallery src="https://imgur.com/7H9PANR.gif" title="Akita Neru" >}}
 {{< /galleries >}}
 
 ## Touhou
