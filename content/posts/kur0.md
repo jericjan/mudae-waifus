@@ -41,6 +41,8 @@ nanogallery = "yes"
 {{< gallery src="https://mudae.net/uploads/4864734/RkioWnx~kPEA7XO.png" title="Kosaki Onodera" >}}
 
 {{< gallery src="https://imgur.com/EkZ648s.gif" title="Seele Vollerei" >}}
+{{< gallery src="https://mudae.net/uploads/2273865/Z6SfcsG~ShV6xrC.png" title="Bronya Zaychik" >}}
+{{< gallery src="https://mudae.net/uploads/7298805/ivav_ac~wrNNNER.png" title="Bronie" >}}
 
 {{< /galleries >}}
 
@@ -54,6 +56,8 @@ nanogallery = "yes"
 
 ## Touhou
 {{< galleries >}}
+{{< gallery src="https://mudae.net/uploads/3070149/QEZRVgN~9Ksqz2w.png" title="SCP-6959" >}}
+{{< gallery src="https://mudae.net/uploads/6344164/vntjrYy~yOkBW06.png" title="Flandre Scarlet" >}}
 {{< gallery src="https://mudae.net/uploads/4346148/Fuq_xlS~6ptopc8.png" title="Kaguya Houraisan" >}}
 
 {{< gallery src="https://mudae.net/uploads/9533451/liiZvOs~c4nR8p2.png" title="Aya Shameimaru" >}}
@@ -61,6 +65,9 @@ nanogallery = "yes"
 {{< gallery src="https://mudae.net/uploads/6017008/c_b-pNG~AQW9JXm.png" title="Marisa Kirisame (PC-98)" >}}
 
 {{< gallery src="https://imgur.com/sdKlMeh.gif" title="Hina Kagiyama | HINA SPINNNNNNNNN" >}}
+{{< gallery src="https://mudae.net/uploads/4207768/Ui-nnUS~pMyOJgX.png" title="Hisami Yomotsu" >}}
+{{< gallery src="https://mudae.net/uploads/7431507/Ugux4eO~8DaNfbE.png" title="Shion Yorigami" >}}
+{{< gallery src="https://mudae.net/uploads/7511151/YE_lSF3~Io6kYG9.png" title="Yuyuko Saigyouji" >}}
 {{< /galleries >}}
 
 ## Vocaloid
@@ -75,6 +82,7 @@ nanogallery = "yes"
 
 ## Vtubers
 {{< galleries >}}
+{{< gallery src="https://mudae.net/uploads/7043348/06qak5H~ZHR1V1Z.png" title="Kaheru" >}}
 {{< gallery src="https://mudae.net/uploads/8787022/i7IW8Rc~ieO16q0.png" title="Amano Pikamee" >}}
 {{< gallery src="https://mudae.net/uploads/8410367/aaoQWlM~kryTrub.png" title="Millie Parfait" >}}
 
@@ -142,6 +150,7 @@ nanogallery = "yes"
 
 ## Inhuman
 {{< galleries >}}
+{{< gallery src="https://mudae.net/uploads/8178539/fr36pnA~lzv1HPW.png" title="Balloony" >}}
 {{< gallery src="https://mudae.net/uploads/5998070/dK--fgh~6yxkcw59nb7.png" title="Ramiel" >}}
 
 {{< gallery src="https://mudae.net/uploads/3360676/W-67XVl~84jdc2gbap4.png" title="Chupa-Cu de Goianinha" >}}
@@ -149,6 +158,7 @@ nanogallery = "yes"
 
 ## Gacha
 {{< galleries >}}
+{{< gallery src="https://mudae.net/uploads/7296037/ntqbnTK~jJBJzYv.png" title="Sirin" >}}
 {{< gallery src="https://mudae.net/uploads/8632246/HBKzu4z~WOS8SMK.png" title="Elf Elysia" >}}
 
 {{< gallery src="https://mudae.net/uploads/2754456/-r3vw4U~PlPQaZ2.png" title="Griseo | Honker Jedi" >}}
@@ -177,6 +187,7 @@ nanogallery = "yes"
 ## Memes
 {{< galleries >}}
 {{< gallery src="https://imgur.com/VmWyHb5.gif" title="Raku-chan" >}}
+{{< gallery src="https://mudae.net/uploads/3206452/rwRX_Tg~Og9OkGb.png" title="Koneko-chan" >}}
 {{< gallery src="https://mudae.net/uploads/6242957/t7IMY4n~gD4yUhp.png" title="Vet-sama" >}}
 {{< gallery src="https://mudae.net/uploads/6852516/NsOPEyg~ytbg5qM.png" title="Sader" >}}
 {{< /galleries >}}

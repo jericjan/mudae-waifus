@@ -72,3 +72,8 @@ nanogallery = "yes"
 {{< gallery src="https://imgur.com/XYFLtdI.gif" title="Yoshino Koiwai" >}}
 {{< /galleries >}}
 
+## Games
+{{< galleries >}}
+{{< gallery src="https://mudae.net/uploads/3732532/l8dLYma~CLXFjD1.png" title="NEKO#ΦωΦ" >}}
+{{< /galleries >}}
+
