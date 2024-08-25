@@ -160,6 +160,7 @@ nanogallery = "yes"
 ## Gacha
 {{< galleries >}}
 {{< gallery src="https://mudae.net/uploads/7296037/ntqbnTK~jJBJzYv.png" title="Sirin" >}}
+{{< gallery src="https://mudae.net/uploads/8589558/s3m1hKb~FrlNFF5.png" title="Raven (HI3)" >}}
 {{< gallery src="https://mudae.net/uploads/8632246/HBKzu4z~WOS8SMK.png" title="Elf Elysia" >}}
 
 {{< gallery src="https://mudae.net/uploads/2754456/-r3vw4U~PlPQaZ2.png" title="Griseo | Honker Jedi" >}}
