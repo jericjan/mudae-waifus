@@ -32,6 +32,7 @@ nanogallery = "yes"
 
 {{< gallery src="https://mudae.net/uploads/8263116/MeCPk67~3GSx6hY.png" title="Phosphophyllite" >}}
 
+{{< gallery src="https://imgur.com/idGcz0X.gif" title="Maka Albarn" >}}
 {{< gallery src="https://mudae.net/uploads/5335766/vsOPnTO~eEr94yg.png" title="Lucy" >}}
 
 {{< gallery src="https://imgur.com/fssT7vS.png" title="NaNa (ToSifam)" >}}
