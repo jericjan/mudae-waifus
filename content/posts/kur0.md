@@ -40,6 +40,7 @@ nanogallery = "yes"
 {{< gallery src="https://imgur.com/HJIMBOe.gif" title="Komi Shouko" >}}
 
 {{< gallery src="https://mudae.net/uploads/4864734/RkioWnx~kPEA7XO.png" title="Kosaki Onodera" >}}
+{{< gallery src="https://cdn.imgchest.com/files/w7pjcmzagl7.gif" title="Raiden Mei" >}}
 
 {{< gallery src="https://imgur.com/EkZ648s.gif" title="Seele Vollerei" >}}
 {{< gallery src="https://mudae.net/uploads/2273865/Z6SfcsG~ShV6xrC.png" title="Bronya Zaychik" >}}
@@ -69,6 +70,9 @@ nanogallery = "yes"
 {{< gallery src="https://mudae.net/uploads/4207768/Ui-nnUS~pMyOJgX.png" title="Hisami Yomotsu" >}}
 {{< gallery src="https://mudae.net/uploads/7431507/Ugux4eO~8DaNfbE.png" title="Shion Yorigami" >}}
 {{< gallery src="https://mudae.net/uploads/7511151/YE_lSF3~Io6kYG9.png" title="Yuyuko Saigyouji" >}}
+{{< gallery src="https://mudae.net/uploads/4392444/hhaMOv3~7VdYP1u.png" title="Sagume Kishin" >}}
+{{< gallery src="https://mudae.net/uploads/8315060/mXH0vJH~gWKSv7j.png" title="Shizuha Aki" >}}
+{{< gallery src="https://mudae.net/uploads/7180963/atVTSq_~cptX1ak.png" title="Yamame Kurodani" >}}
 {{< /galleries >}}
 
 ## Vocaloid
